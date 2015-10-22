@@ -9,6 +9,7 @@
 一句话获得`UUID`：
 ```objc
  [FCUUID uuidForDevice]
+ ```
 
 ## 感谢 & 更多
 FCUUID: <https://github.com/fabiocaccamo/FCUUID>
